@@ -1,0 +1,6 @@
+Word "rvt" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
+Word "ac" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
+Word "r" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
+Word "e" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 5 times.
+Word "n" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
+Word "o" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 3 times.
