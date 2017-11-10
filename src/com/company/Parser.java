@@ -20,13 +20,17 @@ class Parser {
              FileReader fileToReadFrom = new FileReader(inputFile))
         {
             ArrayList<Character> charStreamJavaWords= new ArrayList<>();
-            while(javaWords.read() > 0) {
-                charStreamJavaWords.add((char) javaWords.read());
+
+            while(javaWords.ready()) {
+                int symbol = javaWords.read();
+                charStreamJavaWords.add((char) symbol);
             };
+            System.out.println(charStreamJavaWords.toString());
 
             ArrayList<Character> charStreamInputFile = new ArrayList<>();
-            while(fileToReadFrom.read() > 0){
-                charStreamInputFile.add((char) fileToReadFrom.read());
+            while(fileToReadFrom.ready()){
+                int symbol = fileToReadFrom.read();
+                charStreamInputFile.add((char) symbol);
             }
 
             char[] charsJavaWords = new char[charStreamJavaWords.size()];
@@ -46,9 +50,9 @@ class Parser {
             String javaWords_String = new String(charsJavaWords);
             String[] arrayOfReservedWords = javaWords_String.split(" ");
 
-            for (String word:arrayOfReservedWords) {
-                System.out.println(word);
-            }
+//            for (String word:arrayOfReservedWords) {
+//                System.out.println(word);
+//            }
 
             String fileToReadFrom_String = new String(charsInputFile);
             String[] arrayInputFile = fileToReadFrom_String.split("\\s");
