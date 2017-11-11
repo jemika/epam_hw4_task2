@@ -3,7 +3,6 @@ package com.company;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 class Parser {
@@ -49,10 +48,6 @@ class Parser {
 
             String javaWords_String = new String(charsJavaWords);
             String[] arrayOfReservedWords = javaWords_String.split(" ");
-
-//            for (String word:arrayOfReservedWords) {
-//                System.out.println(word);
-//            }
 
             String fileToReadFrom_String = new String(charsInputFile);
             String[] arrayInputFile = fileToReadFrom_String.split("\\s");

@@ -3,9 +3,9 @@ Word "private" was used in file C:\Users\Артём\epam_hw4_task2\src\com\compa
 Word "package" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
 Word "static" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
 Word "void" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
-Word "import" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 5 times.
+Word "import" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 4 times.
 Word "public" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
-Word "for" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 7 times.
+Word "for" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 6 times.
 Word "try" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
 Word "catch" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 2 times.
 Word "class" was used in file C:\Users\Артём\epam_hw4_task2\src\com\company\Parser.java 1 times.
